@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sweet Home 3D Design"
+  short_description: "Install MCP and model editable home interiors"
+  default_prompt: "Use $sweethome3d-design to set up Sweet Home 3D with MCP and create an editable home model from my measurements and photos."
